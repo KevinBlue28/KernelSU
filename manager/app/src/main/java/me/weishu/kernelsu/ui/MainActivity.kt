@@ -109,7 +109,7 @@ class MainActivity : ComponentActivity() {
     private var splashStartedAt = 0L
 
     private companion object {
-        const val SplashAnimationDurationMs = 200L
+        const val SplashAnimationDurationMs = 250L
     }
 
     @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
